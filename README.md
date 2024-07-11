@@ -1,1 +1,1 @@
-# .github
+# Quantum Softworks Github Configuration
